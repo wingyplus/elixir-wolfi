@@ -1,0 +1,6 @@
+{
+  "name": "elixir-wolfi",
+  "sdk": "github.com/dagger/dagger/sdk/elixir/runtime@main",
+  "source": ".",
+  "engineVersion": "v0.12.0"
+}
